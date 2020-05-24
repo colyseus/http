@@ -3,17 +3,11 @@
 This is a fork from https://github.com/lukeed/httpie/
 
 <div align="center">
-  <a href="https://npmjs.org/package/httpie">
-    <img src="https://badgen.now.sh/npm/v/httpie" alt="version" />
+  <a href="https://npmjs.org/package/@colyseus/http">
+    <img src="https://badgen.now.sh/npm/v/@colyseus/http" alt="version" />
   </a>
-  <a href="https://travis-ci.org/lukeed/httpie">
-    <img src="https://badgen.now.sh/travis/lukeed/httpie" alt="travis" />
-  </a>
-  <a href="https://codecov.io/gh/lukeed/httpie">
-    <img src="https://badgen.now.sh/codecov/c/github/lukeed/httpie" alt="codecov" />
-  </a>
-  <a href="https://npmjs.org/package/httpie">
-    <img src="https://badgen.now.sh/npm/dm/httpie" alt="downloads" />
+  <a href="https://travis-ci.org/colyseus/httpie">
+    <img src="https://badgen.now.sh/travis/colyseus/http" alt="travis" />
   </a>
 </div>
 
