@@ -6,7 +6,7 @@ This is a fork from https://github.com/lukeed/httpie/
   <a href="https://npmjs.org/package/@colyseus/http">
     <img src="https://badgen.now.sh/npm/v/@colyseus/http" alt="version" />
   </a>
-  <a href="https://travis-ci.org/colyseus/httpie">
+  <a href="https://travis-ci.org/colyseus/http">
     <img src="https://badgen.now.sh/travis/colyseus/http" alt="travis" />
   </a>
 </div>
