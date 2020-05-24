@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="logo.png" alt="httpie" height="190" />
-</div>
+# @colyseus/http
+
+This is a fork from https://github.com/lukeed/httpie/
 
 <div align="center">
   <a href="https://npmjs.org/package/httpie">

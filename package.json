@@ -1,7 +1,7 @@
 {
-  "name": "httpie",
-  "version": "2.0.0-next.7",
-  "repository": "lukeed/httpie",
+  "name": "@colyseus/http",
+  "version": "2.0.0",
+  "repository": "colyseus/http",
   "description": "A lightweight, Promise-based wrapper for Node.js HTTP requests~!",
   "unpkg": "dist/index.min.js",
   "browser": "dist/index.esm.js",
